@@ -31,5 +31,5 @@ modules:
     sources:
     - type: git
       url: https://github.com/soyersoyer/sysex-controls
-#      tag: v0.2.18
-      commit: 428246de18ec111971e0023fbff00e359440475f
+#      tag: v0.2.19
+      commit: 0c4b20080fddbf2a761cb89adbf6a6525661af91
