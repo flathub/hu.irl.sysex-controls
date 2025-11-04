@@ -1,6 +1,6 @@
 app-id: hu.irl.sysex-controls
 runtime: org.gnome.Platform
-runtime-version: '48'
+runtime-version: '49'
 sdk: org.gnome.Sdk
 command: sysex-controls
 finish-args:
@@ -31,5 +31,5 @@ modules:
     sources:
     - type: git
       url: https://github.com/soyersoyer/sysex-controls
-      tag: v0.2.26
-      commit: ed5acdf51a418339f0d8af4fc7bdccd13526113a
+#      tag: v0.2.26
+      commit: b5561e9082cf3ee1fac066bd7d7e0f4b1948aaec
